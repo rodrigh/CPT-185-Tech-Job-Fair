@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.SuspendLayout();
             // 
             // comboBox1
@@ -54,6 +55,7 @@
         #endregion
 
         private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ColorDialog colorDialog1;
     }
 }
 
